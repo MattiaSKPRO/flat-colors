@@ -1,0 +1,49 @@
+div {
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+    text-align: center;
+    align-items: center;
+   
+}
+
+#goldensand{ background-color:#eccc68; }
+#coral { background-color: #ff7f50; }
+#wildwatermelon { background-color:#ff6b81; }
+#orange { background-color: #ffa502; }
+#bruschettatomato{ background-color: #ff6348; }
+#watermelon { background-color: #ff4757; }
+#limesoap{ background-color: #7bed9f; }
+#frenchskyblue { background-color: #70a1ff; }
+#saturated{ background-color: #5352ed; }
+#ufogreen{ background-color: #2ed573; }
+
+.nome_colore {
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+}
+
+.codice_colore {
+    color: gray;
+    background-color: white;
+    text-align: center;
+
+    font-family: Arial, sans-serif;
+    font-size: 27px;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
